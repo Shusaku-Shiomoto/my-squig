@@ -1,17 +1,4 @@
-* Measurement data measured by REW V5.31.3
-* Source: EXCL: Analogue 1 + 2 (Focusrite USB Audio), LINE_IN (É}ÉX?), 2, volume: 1.000
-* Format: 256k Log Swept Sine, 4 sweeps at -12.0 dBFS with no timing reference
-* Dated: 2026/04/11 1:03:15
-* REW Settings:
-*  C-weighting compensation: Off
-*  Target level: 75.0 dB
-* Note: 
-* Measurement: R 4 11
-* Smoothing: None
-* Frequency Step: 0.36621094 Hz
-* Start Frequency: 0.36621094 Hz
-*
-* Freq(Hz) SPL(dB) Phase(degrees)
+Frequency dB Phase(degrees)
 0.366211 30.952 -86.3645
 0.732422 34.299 -133.1607
 1.098633 34.556 168.5845
