@@ -75,5 +75,8 @@
               , "Z"
               , "HTH67"
               , "HT5" ]
+  }, {
+    "name": "test",
+    "phones": "test.txt"
   }
 ]
