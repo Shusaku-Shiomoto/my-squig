@@ -77,6 +77,6 @@
               , "HT5" ]
   }, {
     "name": "test",
-    "phones": "test.txt"
+    "phones": "test"
   }
 ]
